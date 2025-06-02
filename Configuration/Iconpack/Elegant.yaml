@@ -8,9 +8,6 @@ iconpack:
     webfont:
       css: "EXT:iconpack_elegant/Resources/Public/Vendor/elegant/css/webfont.css"
       prefix: "elegant-"
-      attributes:
-        aria-hidden: "true"
-        role: "img"
 
     svg:
       source: "EXT:iconpack_elegant/Resources/Public/Vendor/elegant/svgs/"
@@ -20,6 +17,5 @@ iconpack:
       source: "EXT:iconpack_elegant/Resources/Public/Vendor/elegant/svgs/"
       attributes:
         fill: "currentColor"
-        role: "img"
 
   icons: "EXT:iconpack_elegant/Resources/Public/Vendor/elegant/metadata/icons.yml"
